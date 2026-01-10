@@ -13,3 +13,8 @@ Melatih logika pemrograman dan penggunaan Github
 ## Struktur Folder
 - dasar → materi dasar Python
 - latihan → latihan & mini project
+
+## Dasar
+
+- Create a Folder & File "Dasar/
+input-output.py"
