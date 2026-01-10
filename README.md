@@ -9,3 +9,7 @@ Repository ini digunakan untuk belajar dasar-dasar Python secara bertahap.
 
 ## Tujuan 
 Melatih logika pemrograman dan penggunaan Github
+
+## Struktur Folder
+- dasar → materi dasar Python
+- latihan → latihan & mini project
